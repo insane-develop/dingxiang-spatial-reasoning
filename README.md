@@ -183,6 +183,10 @@ def choose_model(text, infos):
 
 #### 成品展示
  ![image](result_on_out.jpg)
+#### 测试差异化点击模型
+    运行 chayihua.py 文件
+#### 成品展示
+ ![image](chayihua.jpg)
 
 ### Thanks
 
