@@ -22,8 +22,8 @@ pip install -r requirements.txt
 datasets
    train
      images
-         2F2dc64a9cc7f3332fd004b06e07f16b46.jpg
-         2F3bcd7102230f2425b63ca78e7be88da4.jpg
+        2F2dc64a9cc7f3332fd004b06e07f16b46.jpg
+        2F3bcd7102230f2425b63ca78e7be88da4.jpg
      labels
         2F2dc64a9cc7f3332fd004b06e07f16b46.txt
         2F3bcd7102230f2425b63ca78e7be88da4.txt
