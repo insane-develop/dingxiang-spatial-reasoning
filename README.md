@@ -187,6 +187,10 @@ def choose_model(text, infos):
     运行 chayihua.py 文件
 #### 成品展示
  ![image](chayihua.jpg)
+#### 旋转梯度计算代码
+    运行 rotation.py 文件
+#### 成品展示
+ ![image](xuanzhuan.jpg)
 
 ### Thanks
 
